@@ -1,0 +1,61 @@
+/*
+Theme Name:Excellent enfant par My
+Theme URI: https://themefreesia.com/themes/excellent
+Author: My VO
+Template: excellent
+Author URI: https://themefreesia.com
+Description: Mon portfolio, mon CV et mes projets
+Version: 1.2.5
+*/
+#site-title a,
+a, 
+ul li a:hover, 
+ol li a:hover, 
+.top-bar .top-bar-menu a:hover, 
+.top-bar .widget_contact ul li a:hover, 
+.main-navigation a:hover, 
+.main-navigation ul li.current-menu-item a, 
+.main-navigation ul li.current_page_ancestor a, 
+.main-navigation ul li.current-menu-ancestor a, 
+.main-navigation ul li.current_page_item a, 
+.main-navigation ul li:hover > a, 
+.main-navigation li.current-menu-ancestor.menu-item-has-children > a:after, 
+.main-navigation li.current-menu-item.menu-item-has-children > a:after, 
+.main-navigation ul li:hover > a:after, 
+.main-navigation li.menu-item-has-children > a:hover:after, 
+.main-navigation li.page_item_has_children > a:hover:after, 
+.main-navigation ul li ul li a:hover, 
+.main-navigation ul li ul li:hover > a, 
+.main-navigation ul li.current-menu-item ul li a:hover, 
+.header-search:hover, 
+.header-search-x:hover, 
+.entry-title a:hover, 
+.entry-title a:focus, 
+.entry-title a:active, 
+.entry-meta .author a, 
+.entry-meta span:hover, 
+.entry-meta a:hover, 
+.cat-links, 
+.cat-links a, 
+.tag-links, 
+.tag-links a, 
+.image-navigation .nav-links a, 
+.widget ul li a:hover, 
+.widget-title a:hover, 
+.widget_contact ul li a:hover, 
+.site-info .copyright a:first-child, 
+.site-info .copyright a:hover, 
+#colophon .widget ul li a:hover,
+#footer-navigation a:hover,
+h2 {
+    color: #00c2cb;
+}
+
+.box-title {
+    font-size: 16px;
+    line-height: 2.0;
+}
+
+.qualite {
+    font-weight: 700;
+}

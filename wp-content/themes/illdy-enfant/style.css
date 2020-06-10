@@ -1,0 +1,19 @@
+/*
+Theme Name: Illdy Enfant par My
+Description: Mon portfolio
+Author: MyVO
+Template: illdy
+Version: 2.1.5
+*/
+#header .top-header .header-logo{
+    color: #f1d204;
+}
+
+#header.header-front-page .bottom-header .header-button-one {
+    font-size: large;
+    background-color: rgba(30, 115, 190, 0.7);
+}
+
+#header.header-front-page .bottom-header .header-button-two {
+    font-size: large;
+}
