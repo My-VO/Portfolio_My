@@ -104,7 +104,7 @@ wp_head(); ?>
 						<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a href="#">Formations</a></li>
 						<li id="menu-item-27" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27"><a href="#">Expériences</a></li>
 						<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="#">Loisirs</a></li>
-						<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="#">Contact</a></li>
+						<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="/contact-template">Contact</a></li>
 						<li id="menu-item-191" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-191"><a target="_blank" rel="noopener noreferrer" href="./wp-content/themes/excellent-enfant/CV_Thi_The_My_VO.pdf" download>Télécharger mon CV</a></li>
 					</ul>				
 				</nav> 
@@ -166,7 +166,7 @@ if(is_single() || is_page()){
 		<!-- Our Feature Box ============================================= -->			<div class="our-feature-box">
 				<div class="wrap">
 					<div class="inner-wrap">
-						<h2 class="box-title">Mes projets</h2>
+						<h2>Mes projets</h2>
 						<p class="feature-sub-title"></p>
 						<div class="column clearfix">
 							<div class="three-column freesia-animation fadeInLeft" data-wow-delay="0.5s">
