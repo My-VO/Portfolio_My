@@ -7,3 +7,13 @@ Author URI: https://themefreesia.com
 Description: Mon portfolio, mon CV et mes projets
 Version: 1.2.5
 */
+.menu-item-64 a:hover {
+    background-color: #fb876b;
+    color: white;
+}
+
+.elementor-element h3.elementor-heading-title::first-letter {
+    color: #fb876b;
+    font-size: 30px;
+    font-style: italic;
+}
