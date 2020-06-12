@@ -22,7 +22,7 @@ Version: 1.2.5
     padding-bottom: 5em;
 }
 
-.wrap #primary #main {
+.page-id-97 #content .wrap {
     display: flex;
     justify-content: center;
 }
