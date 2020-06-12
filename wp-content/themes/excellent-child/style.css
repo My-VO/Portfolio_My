@@ -17,3 +17,12 @@ Version: 1.2.5
     font-size: 30px;
     font-style: italic;
 }
+
+.elementor-element-populated {
+    padding-bottom: 5em;
+}
+
+.wrap #primary #main {
+    display: flex;
+    justify-content: center;
+}
